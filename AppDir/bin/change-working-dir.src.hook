@@ -2,8 +2,7 @@
 dir=${XDG_DATA_HOME:-~/.local/share}/Twinsen
 mkdir -p "$dir"
 if [ ! -f "$dir"/LBA2/lba2.cfg ]; then
-mkdir -p "$dir"/LBA2
-cd "$dir"/LBA2
+mkdir -p "$dir"/LBA2 && cd "$dir"/LBA2
 cat <<EOM > "lba2.cfg"
 ; L.B.A.2 Configuration file
 
