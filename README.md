@@ -17,7 +17,7 @@
 
 </div>
 
-### ⚠️ Game assets (`steamapps/common/Little Big Adventure 2/Common/`) within `~/.local/share/Twinsen/` ⚠️
+### ⚠️ Game assets e.g. `steamapps/common/Little Big Adventure 2/Common/*` within `~/.local/share/Twinsen` ⚠️
 
 ---
 
